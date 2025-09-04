@@ -1,0 +1,43 @@
+/* General reset */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* Header */
+#header {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Section box model */
+.box {
+  border: 2px solid #444;
+  padding: 20px;
+  margin: 20px;
+  background-color: #f4f4f4;
+}
+
+/* Class selector */
+.highlight {
+  color: red;
+  font-weight: bold;
+}
+
+/* ID selector */
+#unique {
+  color: green;
+  font-style: italic;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #222;
+  color: white;
+}
